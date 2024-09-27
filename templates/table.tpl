@@ -29,7 +29,7 @@
         </button>
 
         <button class="delete-btn">
-            🗑️
+          🗑
         </button>
     </td>
     </tr>
@@ -45,7 +45,7 @@
         </button>
 
         <button class="delete-btn">
-            🗑️
+          🗑
         </button>
         </td>
     </tr>
